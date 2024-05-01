@@ -1,0 +1,17 @@
+.form{
+  width: 100%;
+  max-width: 480px;
+  margin: 5% auto;
+  & h1{
+    font-size: 32px;
+  }
+  & .row{
+    margin: 0 auto 20px;;
+  }
+  & .tiny-msg{
+    font-size: 14px;
+    color: #888;
+    text-align: center;
+    margin: 20px auto;
+  }
+}
